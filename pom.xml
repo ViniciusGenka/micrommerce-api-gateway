@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.genka</groupId>
-        <artifactId>ecommerce-microservices</artifactId>
+        <artifactId>micrommerce</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
-    <artifactId>api-gateway</artifactId>
+    <artifactId>micrommerce-api-gateway</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>api-gateway</name>
-    <description>api-gateway</description>
+    <name>micrommerce-api-gateway</name>
+    <description>micrommerce-api-gateway</description>
     <properties>
         <java.version>17</java.version>
         <spring-cloud.version>2022.0.4</spring-cloud.version>
